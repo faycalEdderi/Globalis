@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Reponse question 1: 
+ * La fonction foo() prend en parametre pluseiurs intervalles. 
+ * Elle compare ces intervalles et retourne les intervalles qui se chevauche entierement ou partiellement
+ */
+
 require_once 'Class/Interval.php';
 
 use Class\Interval;
