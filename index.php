@@ -1,9 +1,14 @@
 <?php
 
 /**
- * Reponse question 1: 
+ * Question 1 : 
  * La fonction foo() prend en parametre pluseiurs intervalles. 
  * Elle compare ces intervalles et retourne les intervalles qui se chevauche entierement ou partiellement
+ */
+
+/**
+ * Question 3 :
+ * Réaliser la méthode countInterval ma pris 1h
  */
 
 require_once 'Class/Interval.php';
